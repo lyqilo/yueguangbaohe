@@ -1,0 +1,41 @@
+
+touxiang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chufa_baijinjin
+  rotate: true
+  xy: 576, 592
+  size: 281, 297
+  orig: 281, 300
+  offset: 0, 2
+  index: -1
+chufa_di_1
+  rotate: false
+  xy: 2, 281
+  size: 314, 310
+  orig: 314, 310
+  offset: 0, 0
+  index: -1
+chufa_zixia
+  rotate: true
+  xy: 276, 593
+  size: 280, 298
+  orig: 281, 300
+  offset: 1, 1
+  index: -1
+quan_1
+  rotate: false
+  xy: 318, 277
+  size: 314, 313
+  orig: 314, 313
+  offset: 0, 0
+  index: -1
+quan_2
+  rotate: false
+  xy: 2, 601
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1

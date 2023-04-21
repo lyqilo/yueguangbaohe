@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: kuang5_Data
+  m_EditorClassIdentifier: 
+  dataName: kuang5
+  dragonBonesJSON: {fileID: 4900000, guid: 4cc29f74d8835e940a586e66c6f47f32, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 816c27ed9f193de41b3c659603193786, type: 3}
+    texture: {fileID: 2800000, guid: ec4038a71ca38be42b2ae10168bc8a23, type: 3}
+    material: {fileID: 0}
+    uiMaterial: {fileID: 2100000, guid: a4ad939088d171143acf3cac74afee5a, type: 2}
