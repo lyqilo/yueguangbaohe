@@ -189,6 +189,8 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 84bcb3f162cc6df4097b3ddf0199e1c0, type: 3}
   - {fileID: 21300000, guid: 02621f02dcc53384ba8266b8e80aebe8, type: 3}
   - {fileID: 21300000, guid: 57985f0290154506bdffe1fe55d2056f, type: 3}
+  - {fileID: 21300000, guid: f73ab012cd834d441910cc231a2e804f, type: 3}
+  - {fileID: 21300000, guid: 8c04b512a3bf03a4abbbd1b457fc7384, type: 3}
   - {fileID: 21300000, guid: ffa09d42754fffb4c8264d65d08c4ee6, type: 3}
   - {fileID: 21300000, guid: 76af0262beb714747a3d831953def2df, type: 3}
   - {fileID: 21300000, guid: 3f79d892ad0940d6a085d1a7a2e72f57, type: 3}
@@ -651,6 +653,8 @@ SpriteAtlas:
   - jindutiao_2
   - di0
   - ygbh_xingxing02
+  - ygbh_icon_3
+  - ygbh_icon_4
   - yinyue
   - sg 1
   - ygbh_xingxing04
