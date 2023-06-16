@@ -318,7 +318,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 139bfed53ffdd2c4395fba815fc7b6ea, type: 3}
   - {fileID: 21300000, guid: c34633069416e4d469ac240b8c16f322, type: 3}
   - {fileID: 21300000, guid: 61738d36f47221c49b6a509d0a003ac4, type: 3}
-  - {fileID: 21300000, guid: a3b4e86654b763c4191707d85b4c3b74, type: 3}
   - {fileID: 21300000, guid: 9907a3764df51a84aa101b15eed529ed, type: 3}
   - {fileID: 21300002, guid: 4ab43b86cc77fd5488799c73861196cd, type: 3}
   - {fileID: 21300000, guid: 4ab43b86cc77fd5488799c73861196cd, type: 3}
@@ -782,7 +781,6 @@ SpriteAtlas:
   - icon_9
   - zi_1
   - moshi_zi_free 1
-  - zi_4
   - btn-caidan
   - 12_1
   - 12_0
