@@ -347,6 +347,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 48e8b1a64f7bbe14a800a7678a6092aa, type: 3}
   - {fileID: 21300000, guid: b1e53be67cb93e9488bd1616e177d444, type: 3}
   - {fileID: 21300000, guid: df049df6d5394a73940d55febf5d7152, type: 3}
+  - {fileID: 21300000, guid: 5d212907a7211fe42a01fad05dca4b42, type: 3}
   - {fileID: 21300000, guid: 6652bb074ab22354a85ce22aa0a23002, type: 3}
   - {fileID: 21300000, guid: c802da17fb21ffe4ba8a792755a4bc66, type: 3}
   - {fileID: 21300000, guid: bb20863709b904a4bb776dfb0cfcbc4f, type: 3}
@@ -810,6 +811,7 @@ SpriteAtlas:
   - btn1_0000_btn-free
   - moshi_zi_xuanze
   - gxhd
+  - gold
   - font01
   - btn-20
   - icon_7
