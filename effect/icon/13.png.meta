@@ -150,7 +150,7 @@ TextureImporter:
       213: 21300096
     second: 13_48
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -170,6 +170,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -178,12 +180,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: -1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -201,10 +203,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -244,6 +250,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1296,6 +1314,56 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      13_0: 21300000
+      13_1: 21300002
+      13_10: 21300020
+      13_11: 21300022
+      13_12: 21300024
+      13_13: 21300026
+      13_14: 21300028
+      13_15: 21300030
+      13_16: 21300032
+      13_17: 21300034
+      13_18: 21300036
+      13_19: 21300038
+      13_2: 21300004
+      13_20: 21300040
+      13_21: 21300042
+      13_22: 21300044
+      13_23: 21300046
+      13_24: 21300048
+      13_25: 21300050
+      13_26: 21300052
+      13_27: 21300054
+      13_28: 21300056
+      13_29: 21300058
+      13_3: 21300006
+      13_30: 21300060
+      13_31: 21300062
+      13_32: 21300064
+      13_33: 21300066
+      13_34: 21300068
+      13_35: 21300070
+      13_36: 21300072
+      13_37: 21300074
+      13_38: 21300076
+      13_39: 21300078
+      13_4: 21300008
+      13_40: 21300080
+      13_41: 21300082
+      13_42: 21300084
+      13_43: 21300086
+      13_44: 21300088
+      13_45: 21300090
+      13_46: 21300092
+      13_47: 21300094
+      13_48: 21300096
+      13_5: 21300010
+      13_6: 21300012
+      13_7: 21300014
+      13_8: 21300016
+      13_9: 21300018
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
